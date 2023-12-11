@@ -4,6 +4,7 @@ import os
 from logging.handlers import RotatingFileHandler
 
 #import pymongo
+import dotenv
 from dotenv import load_dotenv
 #from pymongo import MongoClient
 from pyrogram import Client
